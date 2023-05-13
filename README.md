@@ -33,6 +33,7 @@ You CANNOT deploy to Netifly, GitHub Pages, or Cloudflare pages. [Read more here
     <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></img></a>
     <a href="https://app.cyclic.sh/api/app/deploy/Sebastianroczz/Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></img></a>
     <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Sebastianroczz/Incognito&branch=main&name=Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></img></a>
+    <a href="https://glitch.com/edit/#!/import/github/Thesecondalthowcool/Incognito-Fixed"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></img></a>
     <br>
     <br>
     <a>Or</a>
