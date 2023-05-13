@@ -31,6 +31,8 @@ You CANNOT deploy to Netifly, GitHub Pages, or Cloudflare pages. [Read more here
     <a href="https://heroku.com/deploy?template=https://github.com/amethystnetwork-dev/"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></img></a>
     <a href="https://amethystnetwork-dev.github.io/docs/about-replit?repo=Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"><img></a>
     <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></img></a>
+    <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></img></a>
+    <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></img></a>
     <br>
     <br>
     <a>Or</a>
