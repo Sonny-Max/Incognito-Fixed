@@ -24,7 +24,7 @@ You CANNOT deploy to Netifly, GitHub Pages, or Cloudflare pages. [Read more here
 
 <div align="center">
     <h2>Get Started</h2>
-    <a>To get started, press one of the buttons below to deploy Incognito.Also added more deploying options.</a>
+    <a>To get started, press one of the buttons below to deploy Incognito. Also added more deploying options. (Free users using cyclic, this repo is to big!)</a>
     <br>
     <br>
     <a href="https://render.com/deploy?repo=https://github.com/Sebastianroczz/Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></img></a>
