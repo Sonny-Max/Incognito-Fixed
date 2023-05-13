@@ -24,15 +24,15 @@ You CANNOT deploy to Netifly, GitHub Pages, or Cloudflare pages. [Read more here
 
 <div align="center">
     <h2>Get Started</h2>
-    <a>To get started, press one of the buttons below to deploy Incognito</a>
+    <a>To get started, press one of the buttons below to deploy Incognito.Also added more deploying options.</a>
     <br>
     <br>
     <a href="https://render.com/deploy?repo=https://github.com/Sebastianroczz/Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></img></a>
     <a href="https://heroku.com/deploy?template=https://github.com/amethystnetwork-dev/"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></img></a>
     <a href="https://amethystnetwork-dev.github.io/docs/about-replit?repo=Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"><img></a>
     <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></img></a>
-    <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></img></a>
-    <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></img></a>
+    <a href="https://app.cyclic.sh/api/app/deploy/Sebastianroczz/Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></img></a>
+    <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Sebastianroczz/Incognito&branch=main&name=Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></img></a>
     <br>
     <br>
     <a>Or</a>
