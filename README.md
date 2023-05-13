@@ -28,8 +28,8 @@ You CANNOT deploy to Netifly, GitHub Pages, or Cloudflare pages. [Read more here
     <br>
     <br>
     <a href="https://render.com/deploy?repo=https://github.com/Sebastianroczz/Incognito"><img height="30px" src="https://img.shields.io/badge/render-4f65f1.svg?style=for-the-badge&logo=render&logoColor=46e3b7"></img></a>
-    <a href="https://amethystnetwork-dev.github.io/utils/deploy/heroku?repo=Incognito"><img height="30px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></img></a>
-    <a href="https://amethystnetwork-dev.github.io/docs/about-replit?repo=Incognito"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
+    <a href="https://heroku.com/deploy?template=https://github.com/amethystnetwork-dev/"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></img></a>
+    <a href="https://amethystnetwork-dev.github.io/docs/about-replit?repo=Incognito"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"><img></a>
     <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></img></a>
     <br>
     <br>
