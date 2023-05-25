@@ -1,0 +1,4 @@
+if (window.self === window.top) {
+  // website is not being displayed inside an iframe
+  window.location.href = "https://www.google.com";
+}
